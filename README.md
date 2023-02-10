@@ -1,6 +1,6 @@
 # Credit Calculator
 
-![137-1372092_calculators-calculat (1)](https://user-images.githubusercontent.com/98217566/209774048-2425b5c6-3731-4303-b367-8903466afa35.png)
+![аываывафыва](https://user-images.githubusercontent.com/96514857/218193232-34669453-4650-446f-b25d-1a8c60d4fce8.jpg)
 
 ## Общее описание
 
