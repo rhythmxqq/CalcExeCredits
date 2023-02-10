@@ -23,5 +23,5 @@ Java - cтрого типизированный объектно-ориенти�
 [Руководство пользователя](https://docs.google.com/document/d/1E19pQrn9ZiJoYec1_XfY8Sm1cdcIwwEY/edit)
 
 ## Разработчики
-Разработчиком является [Еgor]https://github.com/rhythmxqq)
+Разработчиком является [Еgor](https://github.com/rhythmxqq)
 ## [Wiki](https://github.com/rhythmxqq/CalcExeCredits/wiki)
